@@ -9,6 +9,12 @@
   "keywords": [],
   "author": "huangkairan<kaba98@163.com>",
   "license": "MIT",
+  "dependencies": {
+    "@alicloud/devops20210625": "^4.14.3",
+    "@alicloud/openapi-client": "^0.4.8",
+    "@alicloud/tea-typescript": "^1.8.0",
+    "@alicloud/tea-util": "^1.4.7"
+  },
   "devDependencies": {
     "@types/node": "^20.12.7",
     "@vercel/node": "^3.0.26",
