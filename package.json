@@ -1,0 +1,17 @@
+{
+  "name": "chrome-extension-codeup-reporter-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "huangkairan<kaba98@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@vercel/node": "^3.0.26",
+    "typescript": "^5.4.5"
+  }
+}
